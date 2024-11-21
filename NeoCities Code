@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Art</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1>Welcome to my Website!</h1>
+
+    <p>This website is for  <a href="https://boba.hackclub.com/">Boba Drops</a>, which is for my school's Hack Club.</p>
+
+    <p>I mainly draw my Original Characters, or fanart of characters I like!</p>
+
+    <img src="https://i.postimg.cc/21JXx281/Untitled946-20240812161547.png">
+    <img src="https://i.postimg.cc/ZCwQWJGF/Untitled1120-20241101205903.png">
+    <img src="https://file.garden/Zy0kpdYrsSNPYjAM/Untitled1091_20240919232152.png">
+    <img src="https://file.garden/Zy0kpdYrsSNPYjAM/AsterRhythm.png">
+    <img src="https://file.garden/Zy0kpdYrsSNPYjAM/Untitled1091_20240919232152.png">
+    
+    
+    <p>More information about me:</p>
+    <p>I am an 18 year old highschool student (class of 2025!). I've been drawing since I was around 5 years old, and I'm currently taking art classes in school. I'm trying to get into Penn State Harrisburg for biotechnology!</p>
+  </body>
+</html>
